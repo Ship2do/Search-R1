@@ -54,6 +54,7 @@ Paper: [link1](https://arxiv.org/pdf/2503.09516), [link2](https://arxiv.org/abs/
 
 - [Installation](#installation)
 - [Quick start](#quick-start)
+- [中文 Agentic RL 学习指南](docs/agentic_rl_learning_guide_zh.md)
 - [Preliminary results](#preliminary-results)
 - [Inference](#inference)
 - [Use your own dataset](#use-your-own-dataset)
